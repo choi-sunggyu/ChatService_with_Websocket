@@ -1,7 +1,7 @@
 # ChatService_with_Websocket
 
 ## Project Structure
-'''text
+```text
 /
 ├── app.py                 # FastAPI 메인 애플리케이션
 ├── run_server.py          # 서버 실행 및 ngrok 연결 스크립트
@@ -15,5 +15,4 @@
     │       ├── ChatRoom.js   # 채팅방 컴포넌트
     │       └── RoomList.js   # 채팅방 목록 컴포넌트
     └── components/        # React 컴포넌트
-
-'''
+```
